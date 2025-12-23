@@ -66,6 +66,6 @@ This repository follows the **ROS Vietnam Code of Conduct**.
 
 ### Active companies
 <!-- !companies! -->
-| Company | Description | Year Founded| 
+| Company | Description | Year Founded| | Location| 
 |---------|-------------|------|
-| [LeonLegion](https://leonlegion.com) | End to End solution advanced robotics. | 2019 |
+| [LeonLegion](https://leonlegion.com) | End to End solution advanced robotics. | 2019 | | HCMC |
